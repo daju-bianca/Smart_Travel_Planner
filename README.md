@@ -35,3 +35,4 @@ Application Screenshots
 <img width="413" height="178" alt="image" src="https://github.com/user-attachments/assets/49d9f6ef-d234-4664-b51f-f64952184d16" />
 <img width="396" height="173" alt="image" src="https://github.com/user-attachments/assets/4bd2270b-09fe-41e0-84a2-71c0cecb0e7b" />
 <img width="404" height="188" alt="image" src="https://github.com/user-attachments/assets/7217c1d2-f32f-4ca8-a4ef-1bd38f429ea0" />
+<img width="443" height="190" alt="image" src="https://github.com/user-attachments/assets/5fd08deb-9ad9-478c-b009-4d31f143efd4" />
